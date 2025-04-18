@@ -20,7 +20,6 @@ fuel-comparison-dashboard/
 │
 ├── Fuel_Comparison_Dashboard.xlsx
 ├── README.md
-└── Sample_Data.csv (optional)
 ```
 
 ---
